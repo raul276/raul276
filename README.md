@@ -42,3 +42,15 @@ while true:
       if not event_is_directory and event_src_path.endswith(tuple(self.file_extencions)):
       file_path=event.src_path
       
+def decor(func):
+  def wrap():
+  print("============")
+  func()
+  print("============")
+  return wrap
+
+  def print_text():
+  print("hello world")
+  decoraded=decor(print_text)
+  decoraded()
+  
