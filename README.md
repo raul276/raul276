@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m Raul, a passionate developer specializing in
 ## 🚀 About Me
 
 - **💼 Current Role:** Full Stack Developer
-- **🌍 Location:** Based in Barcelona, Spain
+- **🌍 Location:** Based in Aguascalientes ags.
 - **🌱 Currently Learning:** Advanced Kubernetes, AI/ML integration with web apps
 - **💬 Ask me about:** JavaScript, Node.js, React, AWS, Docker, Kubernetes
 
